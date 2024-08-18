@@ -14,13 +14,13 @@ This guide provides step-by-step instructions for setting up and executing the p
 First, start the server by running `server.py` in a terminal:
 ```bash
 python server.py
-\```
+```
 
 ### 2.2 Launching Clients
 In two separate terminals, create two clients by running the following commands:
 ```bash
 python client.py 1
 python client.py 2
-\```
+```
 
 To test with more clients, modify the min_client parameter on server.py
